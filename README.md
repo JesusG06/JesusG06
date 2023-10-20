@@ -2,9 +2,9 @@
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- Theater Reservation System</b>
-  - (https://github.com/JesusG06/TheaterReservationSystem)
 
+- <b>Theater Reservation System Java Program (ExceptionIO, Files, User Input, Loops, and Conditionals)</b>
+  - [Theater Reservation System](https://github.com/JesusG06/TheaterReservationSystem)
 
 <h2> 🤳 Connect with me:</h2>
 

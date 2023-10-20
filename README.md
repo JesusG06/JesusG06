@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jesus! <br/><a href="https://github.com/JesusG06">Second Year at The University of Texas at Dallas</a></h1>
+<h1>Hi, I'm Jesus! <br/><a href="https://github.com/JesusG06"></h1>
+<h3>I am a second year student at The University of Texas at Dallas majroing in computer science!</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - Theater Reservation System</b>

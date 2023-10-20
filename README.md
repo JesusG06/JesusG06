@@ -1,12 +1,9 @@
-<h1>Hi, I'm Jesus! <br/><a href="https://github.com/JesusG06"></h1>
-<h3>I am a second year student at The University of Texas at Dallas majroing in computer science!</h3>
+<h1>Hi, I'm Jesus! <br/><a href="https://github.com/JesusG06">I am a second year student at The University of Texas at Dallas majoring in computer science!</h1>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - Theater Reservation System</b>
   - (https://github.com/JesusG06/TheaterReservationSystem)
-
-
-<h2>📺 Popular YouTube Videos</h2>
 
 
 <h2> 🤳 Connect with me:</h2>

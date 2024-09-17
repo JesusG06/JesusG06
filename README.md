@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jesus! <br/><a href="https://github.com/JesusG06">I am a second year student at The University of Texas at Dallas majoring in computer science!</h1>
+<h1>Hi, I'm Jesus! <br/><a href="https://github.com/JesusG06">I am a third year student at The University of Texas at Dallas majoring in computer science!</h1>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
